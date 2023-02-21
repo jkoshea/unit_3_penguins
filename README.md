@@ -11,15 +11,15 @@ This unit will cover data manipulation and visualization using the `Tidyverse` s
 
 #### Homework: 
 
--  hw_4_t-tests - Assigned: 2/16/2023, Due: 2/23/2023
+-  hw_4_t-tests - Assigned: 2/21/2023, Due: 2/28/2023
 
-HW4 repo link: TBD
+HW4 repo link: https://classroom.github.com/a/zysqD3Su
 
--  Final project proposal - Assigned 2/23/2023, Due: 3/16/2023
+-  Final project proposal - Assigned 2/28/2023, Due: 3/21/2023
 
 Final project repo link: TBD
 
--  hw_5_penguin_taxidermy - Assigned: 2/28/2023, Due: 3/14/2023
+-  hw_5_penguin_taxidermy - Assigned: 3/2/2023, Due: 3/16/2023
 
 HW5 repo link: TBD
 
