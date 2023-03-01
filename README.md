@@ -17,7 +17,7 @@ HW4 repo link: https://classroom.github.com/a/zysqD3Su
 
 -  Final project proposal - Assigned 2/28/2023, Due: 3/21/2023
 
-Final project repo link: TBD
+Final project repo link: https://classroom.github.com/a/eoEdlaj1
 
 -  hw_5_penguin_taxidermy - Assigned: 3/2/2023, Due: 3/16/2023
 
